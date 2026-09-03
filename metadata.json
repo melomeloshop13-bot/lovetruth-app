@@ -1,0 +1,6 @@
+{
+  "name": "Love Truth - ถามใจตัวเอง & วิเคราะห์ความรัก",
+  "description": "ค้นหาความรู้สึกที่แท้จริงในความสัมพันธ์ วิเคราะห์ควรมูฟออนหรือไปต่อด้วยแบบทดสอบเจาะลึก ดูดวงไพ่ทาโรต์ 78 ใบ ตัวละครสัตว์สะท้อนตัวตน และจัดอันดับความรัก",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
